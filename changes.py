@@ -8,7 +8,7 @@ import pandas as pd
 from datetime import datetime
 import telebot
 
-bot = telebot.TeleBot('7484666658:AAElvWf1Nh7wrq-Rex1ZVpsNxDWN_1LJCWw')
+bot = telebot.TeleBot(Your token here)
 
 global msg
 
